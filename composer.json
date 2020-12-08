@@ -1,5 +1,5 @@
 {
-	"name": "mezon/remote-field",
+	"name": "mezon/record-field",
 	"description": "Remote field for the FormBuilder",
 	"license": "MIT",
 	"authors": [
@@ -17,11 +17,11 @@
 	},
 	"support": {
 		"email": "alexey@dodonov.pro",
-		"issues": "https://github.com/alexdodonov/mezon-remote-field/issues",
-		"source": "https://github.com/alexdodonov/mezon-remote-field"
+		"issues": "https://github.com/alexdodonov/mezon-record-field/issues",
+		"source": "https://github.com/alexdodonov/mezon-record-field"
 	},
 	"minimum-stability": "dev",
-	"homepage": "https://github.com/alexdodonov/mezon-remote-field",
+	"homepage": "https://github.com/alexdodonov/mezon-record-field",
 	"prefer-stable": true,
 	"autoload": {
 		"psr-4": {
