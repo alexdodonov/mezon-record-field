@@ -4,7 +4,6 @@ namespace Mezon\Gui\Field;
 use Mezon\Gui\FieldsAlgorithms;
 use Mezon\Gui\FormBuilder\FormBuilder;
 
-//TODO extract to separate package
 /**
  * Class RecordField
  *
